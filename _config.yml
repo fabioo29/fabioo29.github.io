@@ -1,3 +1,5 @@
-title: Pocket Words
-description: A word-search game that doubles as a vocabulary coach.
+title: Fabio Oliveira
+description: Apps by Fabio Oliveira, with their privacy policies and terms.
 theme: jekyll-theme-minimal
+plugins:
+  - jekyll-redirect-from

@@ -1,6 +1,8 @@
 ---
-title: Privacy Policy
-permalink: /privacy
+title: Pocket Words Privacy Policy
+permalink: /pocket-words/privacy
+redirect_from:
+  - /privacy
 ---
 
 # Pocket Words Privacy Policy

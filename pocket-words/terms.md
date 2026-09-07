@@ -1,6 +1,8 @@
 ---
-title: Terms of Service
-permalink: /terms
+title: Pocket Words Terms of Service
+permalink: /pocket-words/terms
+redirect_from:
+  - /terms
 ---
 
 # Pocket Words Terms of Service
