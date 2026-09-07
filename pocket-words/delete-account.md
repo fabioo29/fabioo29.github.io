@@ -20,7 +20,19 @@ Send an email to **fabio@jungle.ai** from the Google account you use to sign
 in, with the subject "Delete my Pocket Words account". The account is deleted
 within 30 days and you get a confirmation reply.
 
-## What is deleted
+## Delete some of your data without deleting your account
+
+Email **fabio@jungle.ai** from the Google account you use to sign in and say
+what you want removed. You can ask for any of these on their own:
+
+- your gameplay history and word progress (your account and friends stay)
+- your match records and leaderboard entries
+- word reports or feedback you sent
+- your push notification tokens (you stop receiving notifications)
+
+Requests are handled within 30 days and you get a confirmation reply.
+
+## What is deleted when you delete the account
 
 Deleting your account removes, right away:
 
