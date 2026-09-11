@@ -10,7 +10,7 @@ there is no email or password on file; deletion works by identifier.
 
 ## How to request it
 
-1. Open Couch Match, go to **Settings** and copy your **account ID**.
+1. Open Couch Match, open the **Seen** tab and scroll to the bottom to copy your **account ID**.
 2. Email **fabio@jungle.ai** with the subject "Delete my Couch Match data"
    and paste the ID in the body.
 
